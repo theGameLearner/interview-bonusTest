@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 75f34443f7987014bb34d55a03bda0e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5859271439283156939
+    second: Award_01
+  - first:
+      213: 7622263899888448776
+    second: Award_02
+  - first:
+      213: -3770947142605404484
+    second: Award_03
+  - first:
+      213: -2834747203319937068
+    second: Award_04
+  - first:
+      213: 1452488576455572742
+    second: Award_05
+  - first:
+      213: 7128184126503328697
+    second: Award_06
+  - first:
+      213: 5751708609252967993
+    second: Award_07
+  - first:
+      213: -2136611701272772096
+    second: Award_08
+  - first:
+      213: 6249034448817057936
+    second: Award_09
+  - first:
+      213: 4257958418968032628
+    second: Award_10
+  - first:
+      213: 7803282802025874532
+    second: Award_11
+  - first:
+      213: 6770006240783867911
+    second: Award_12
+  - first:
+      213: 5597952809276802011
+    second: Award_13
+  - first:
+      213: -7361315083044633024
+    second: Award_14
+  - first:
+      213: -1943879604987137279
+    second: Award_15
+  - first:
+      213: 9073953674716947991
+    second: Award_16
+  - first:
+      213: 887003380979049600
+    second: Award_01
+  - first:
+      213: 1435499560645451195
+    second: Award_02
+  - first:
+      213: 1040368440541375574
+    second: Award_03
+  - first:
+      213: 1173343570260218921
+    second: Award_04
+  - first:
+      213: -629623054456465586
+    second: Award_05
+  - first:
+      213: -6781181992408551456
+    second: Award_06
+  - first:
+      213: 661829811103707932
+    second: Award_07
+  - first:
+      213: -3940120843468148494
+    second: Award_08
+  - first:
+      213: 2494964137012605999
+    second: Award_09
+  - first:
+      213: -392559483307164060
+    second: Award_10
+  - first:
+      213: 5566373965866107417
+    second: Award_11
+  - first:
+      213: -5752050067813597188
+    second: Award_12
+  - first:
+      213: 947049916011369929
+    second: Award_13
+  - first:
+      213: -6552307805418104097
+    second: Award_14
+  - first:
+      213: 6716217911431493168
+    second: Award_15
+  - first:
+      213: 2333716652065620647
+    second: Award_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 2
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Award_01
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3443
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084a3dd10e44f4c00800000000000000
+      internalID: 887003380979049600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_02
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 3452
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd508bae3bebe310800000000000000
+      internalID: 1435499560645451195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_03
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3434
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ceef5a591207e00800000000000000
+      internalID: 1040368440541375574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_04
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 3443
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92459d0b2cd884010800000000000000
+      internalID: 1173343570260218921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_05
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2395
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47d9b8fa212347f0800000000000000
+      internalID: -629623054456465586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_06
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2378
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef6639f7e664e1a0800000000000000
+      internalID: -6781181992408551456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_07
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 2404
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13b998e4ba4f2900800000000000000
+      internalID: 661829811103707932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_08
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 2369
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0f7f0f7f0e159c0800000000000000
+      internalID: -3940120843468148494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_09
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1312
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24b9f9e9a4ef9220800000000000000
+      internalID: 2494964137012605999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_10
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1277
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ef344da395d8af0800000000000000
+      internalID: -392559483307164060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_11
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1303
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9128e6a41abbf3d40800000000000000
+      internalID: 5566373965866107417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_12
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 1294
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff75b160fc9c20b0800000000000000
+      internalID: -5752050067813597188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 229
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5db6481e8942d00800000000000000
+      internalID: 947049916011369929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_14
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 211
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdad80f34c68115a0800000000000000
+      internalID: -6552307805418104097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_15
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 167
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0367dfc3b9cc43d50800000000000000
+      internalID: 6716217911431493168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Award_16
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 193
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a209c43ee6036020800000000000000
+      internalID: 2333716652065620647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
