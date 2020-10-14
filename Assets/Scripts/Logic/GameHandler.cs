@@ -191,7 +191,7 @@ public class GameHandler : MonoBehaviour
 
 	void CheckGridForRewards()
 	{
-		if(miniCount >=3)
+		if (miniCount >= 3)
 		{
 			Debug.Log("MINI Reward - 100k = 100000");
 			GameManager.gameManager.SaveJsonData(true, jackpotState.Mini);
@@ -219,7 +219,10 @@ public class GameHandler : MonoBehaviour
 			GameConstants.gameConstants.winPanel.GetComponent<WinPanelManager>().winText.text = "GRAND Reward \n +1000000";
 			GameConstants.gameConstants.winPanel.gameObject.SetActive(true);
 		}
-		GameManager.gameManager.SaveJsonData(false, jackpotState.closed);
+		else
+		{
+			GameManager.gameManager.SaveJsonData(false, jackpotState.closed);
+		}
 	}
 
 

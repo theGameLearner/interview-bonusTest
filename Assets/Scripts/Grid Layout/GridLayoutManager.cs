@@ -34,7 +34,7 @@ public class GridLayoutManager : MonoBehaviour
         gridLayoutManager = this;
     }
 
-	void Start()
+	void OnEnable()
     {
         awardGrid = new Transform[rowCount, columnCount];
         SetGridData();

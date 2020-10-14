@@ -40,7 +40,8 @@ public class GameManager : MonoBehaviour
 
 	private void Start()
 	{
-        Invoke(nameof(StartGame), 1);
+        //Invoke(nameof(StartGame), 1);
+        StartGame();
     }
 
     void StartGame()
